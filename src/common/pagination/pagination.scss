@@ -3,8 +3,8 @@ a {
 }
 
 .page-item.active .page-link {
-    background-color: #0c4680;
-    border-color: #0c4680;
+    background-color: #0c4680 !important;
+    border-color: #0c4680 !important;
     &:hover {
         color: black;
         background-color: #e4ecf3;
